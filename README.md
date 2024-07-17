@@ -15,8 +15,11 @@
 </p>
 
 <h3 align="center" style="color: #4B0082;">Bio</h3>
+----
 <p align="center" style="color: #483D8B;">
-  Sou a Clara Ferreira Batista, cientista de dados e estudante de engenharia química, apaixonada por desenvolver soluções de machine learning e análise de dados.
+Hoje sou cientista de dados, mas comecei como uma "little nerd" que contava tudo que fosse enumerável e calculava probabilidades intuitivamente para as coisas que queria que acontecessem. Na escola, descobri que essa mágica se chamava estatística e que eu poderia fazer previsões mais precisas usando matemática. Tudo se tornava uma aventura, seja esperando uma consulta médica ou até mesmo em um rolê de sábado a noite, rs.
+
+Na universidade, mergulhei fundo no mundo do cálculo, da estatística e da física, aplicando teoremas e tecendo conexões entre fatos. Programar foi como adicionar cores vibrantes a essa paleta, onde cada linha de código refletia minha visão do mundo. Perceber que eu poderia transformar essa paixão em uma carreira me fez entender que isso é o que quero fazer pelo resto da minha vida.
 </p>
 
 <h3 align="center" style="color: #4B0082;">Principais Linguagens, Frameworks e Bibliotecas Utilizados</h3>
