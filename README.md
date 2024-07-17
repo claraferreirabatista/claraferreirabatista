@@ -12,7 +12,7 @@ Na universidade, mergulhei fundo no mundo do cálculo, da estatística e da fís
 
 
 <p align="left">
-  🌱 Atualmente estou aprendendo <strong>Microsoft Power BI, Tableau Public, Microsoft Azure, R e sempre Python :snake:</strong>
+  :octocat: Atualmente estou aprendendo <strong>Microsoft Power BI, Tableau Public, Microsoft Azure, R e sempre Python :snake:</strong>
 </p>
 <p align="left">
   :chart_with_upwards_trend: Estou disposta a colaborar em <strong>Projetos utilizando Machine Learning, Análise/Ciência de Dados e Storytelling </strong>
