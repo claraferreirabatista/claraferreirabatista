@@ -9,17 +9,9 @@
 
 - 📫 Manda um email **clarabatista@alunos.utfpr.edu.br**
 
-<h3 align="center">Entre em contato:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/clara-ferreira-batista" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clara-ferreira-batista" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/herpetotheres.cachinnans" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herpetotheres.cachinnans" height="30" width="40" />
-    </a>
-</p>
 
-<h3 align="center">Linguagens, FrameWorks e Bibliotecas que eu mais uso:</h3>
+
+<h3 align="center"> Principais Linguagens, Frameworks e Bibliotecas Utilizados:</h3>
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -74,5 +66,15 @@
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a>
+</p>
+
+<h3 align="center">Contate-me</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/clara-ferreira-batista" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clara-ferreira-batista" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/herpetotheres.cachinnans" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herpetotheres.cachinnans" height="30" width="40" />
     </a>
 </p>
