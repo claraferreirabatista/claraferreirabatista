@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Pode me chamar de Clara</h1>
-<h3 align="center">Cientista de dados, Analista de Dados, Engenheira de Aprendizado de Máquina e Desenvolvedora Back End</h3>
+<h1 align="center">Olá! Pode me chamar de Clara 🧑‍🔬</h1>
+<h3 align="center">CIENTISTA DE DADOS | ENGENHEIRA DE APRENDIZADO DE MÁQUINA | DESENVOLVEDORA BACK-END | ENGENHEIRA QUÍMICA</h3>
 
 - 🌱 Atualmente estou aprendendo **Microsoft Power BI, Tableau Public, Microsoft Azure, R e sempre Python**
 
