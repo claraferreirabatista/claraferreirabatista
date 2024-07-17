@@ -5,11 +5,10 @@
 
 - 👯 Estou disposta a colaborar em **Projetos utilizando Machine Learning, Análise de Dados e Storytelling de dados**
 
-- 💬 Pergunte-me sobre **Pyhton, SQL, Java**
+- 💬 Pergunte-me sobre **Pyhton, SQL, bibliotecas de Análise/Ciências de Dados e Machine Learning**
 
 - 📫 Manda um email **clarabatista@alunos.utfpr.edu.br**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/clara-ferreira-batista/](https://www.linkedin.com/in/clara-ferreira-batista/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
