@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center" style="color: #4B0082;">Bio</h3>
-----
+
 <p align="center" style="color: #483D8B;">
 Hoje sou cientista de dados, mas comecei como uma "little nerd" que contava tudo que fosse enumerável e calculava probabilidades intuitivamente para as coisas que queria que acontecessem. Na escola, descobri que essa mágica se chamava estatística e que eu poderia fazer previsões mais precisas usando matemática. Tudo se tornava uma aventura, seja esperando uma consulta médica ou até mesmo em um rolê de sábado a noite, rs.
 
